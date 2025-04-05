@@ -18,5 +18,5 @@ but sometimes monkey brain just goes... woop woop.
 - [ ] Get Leonardo USB working  
 - [ ] Write a bootloader to Leonardo  
 - [ ] Flash Leonardo over USB using bootloader + SPM  
-- [ ] Ditch Uno & ICSP forever, wohoo!  
+- [ ] Ditch Uno & Arduino ISP
 - [ ] To be continued...
