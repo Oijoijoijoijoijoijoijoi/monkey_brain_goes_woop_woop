@@ -14,7 +14,7 @@ but sometimes monkey brain just goes... woop woop.
 
 ## 🗺️ Roadmap
 
-- [ ] Modify Leonardo to function as an ISP flasher  
+ Modify Leonardo to function as an ISP flasher  
 - [ ] Get Leonardo USB working  
 - [ ] Write a bootloader to Leonardo  
 - [ ] Flash Leonardo over USB using bootloader + SPM  
